@@ -1,3 +1,6 @@
+# Notes on this fork
+Modified to suit the rotary encoders I was able to find.
+
 # Physical Volume Control for Home Assistant
 ![knob](https://github.com/adamaze/esphome_volume_knob/blob/master/images/knob.jpg)
 
