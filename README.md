@@ -22,9 +22,9 @@ Double click will call `media_player.media_next_track`
 Long press will call a script to start playing a specific Spotify playlist.
 
 ## Hardware
-FYI, these are amazon afiliate links.  
-[Rotary encoder with push button](https://amzn.to/2xGrBkF) box of 5 ~$2   each  
-[d1 mini](https://amzn.to/3fn6O6K) bag of 5 ~$3.5 each  
+This is the hardware I was able to find easily on Amazon Aug 2022.
+[Rotary encoder with push button](https://www.amazon.com/dp/B09KNC1J6H?psc=1&ref=ppx_yo2ov_dt_b_product_details) box of 10 ~$1   each  
+[ESP32-S2 mini](https://www.amazon.com/dp/B0B291LZ99?psc=1&ref=ppx_yo2ov_dt_b_product_details) bag of 3 ~$6 each  
 Access to 3D printer (or of course, smush it into whatever box you have laying around :)  
 
 
